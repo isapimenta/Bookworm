@@ -1,5 +1,6 @@
 # Bookworm
 Bookworm é um aplicativo parecido com o Letterbox. Leitores avidos consegue dividir suas opniões sobre suas leituras recentes, e até mesmo trocar experiencia com outros usuários. Além de poder encontrar novas opções de leituras, criação de listas.
+
 Miro: https://miro.com/app/board/uXjVJNVixBc=/
 
 ## Stakeholders, Usuários e Clientes
