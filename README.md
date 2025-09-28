@@ -3,6 +3,8 @@ Bookworm é um aplicativo parecido com o Letterbox. Leitores avidos consegue div
 
 Miro: https://miro.com/app/board/uXjVJNVixBc=/
 
+Vídeo: https://youtu.be/0gPv5EUBS3o
+
 ## Stakeholders, Usuários e Clientes
 ### Stakeholders
 - Fundadores/Produtores: Idealizadores do Bookworm, responsáveis pela visão do produto e investimento inicial. Buscam validar o mercado de reviews de livros e estabelecer uma base de usuários.
