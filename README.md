@@ -40,4 +40,4 @@ Design integrado: O designer trabalha próximo aos desenvolvedores para iterar r
 
 Scrum Master cumulado: Um dos desenvolvedores assume o papel de SM, otimizando recursos sem comprometer a agilidade.
 
-Tempo razoável: 6 semanas são viáveis para o desenvolvimento do Bookworm com features essenciais (ex: cadastro, listas de livros, reviews com estrelas), baseado na priorização feita anteriormente.
+Tempo razoável: 6 - 8 semanas são viáveis para o desenvolvimento do Bookworm com features essenciais (ex: cadastro, listas de livros, reviews com estrelas), baseado na priorização feita anteriormente.
